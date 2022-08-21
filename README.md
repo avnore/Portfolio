@@ -14,7 +14,7 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
 - ### Data Mining
 
-  - Youtube API Call : A code for requesting Youtube API and convert the video data of a youtube channel to dataframe.
+  - [Youtube API Call](https://github.com/avnore/Portfolio/tree/main/Youtube_API_Call) : A code for requesting Youtube API and convert the video data of a youtube channel to dataframe.
 
 _Tools: Pandas, requests, JSON
   
